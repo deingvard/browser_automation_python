@@ -36,4 +36,4 @@ check_butn.click()
 
 assert complete_msg.text == 'Trial Complete'
 
-# browser.quit()
+browser.quit()
